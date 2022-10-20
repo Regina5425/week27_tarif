@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week27_tarif/static/css/main.1ed00e62.css",
+    "main.js": "/week27_tarif/static/js/main.e8890aba.js",
+    "index.html": "/week27_tarif/index.html",
+    "main.1ed00e62.css.map": "/week27_tarif/static/css/main.1ed00e62.css.map",
+    "main.e8890aba.js.map": "/week27_tarif/static/js/main.e8890aba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed00e62.css",
+    "static/js/main.e8890aba.js"
+  ]
+}
