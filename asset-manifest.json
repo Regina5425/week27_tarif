@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/week27_tarif/static/css/main.1ed00e62.css",
-    "main.js": "/week27_tarif/static/js/main.e8890aba.js",
+    "main.css": "/week27_tarif/static/css/main.7aecb0af.css",
+    "main.js": "/week27_tarif/static/js/main.c3c512f7.js",
     "index.html": "/week27_tarif/index.html",
-    "main.1ed00e62.css.map": "/week27_tarif/static/css/main.1ed00e62.css.map",
-    "main.e8890aba.js.map": "/week27_tarif/static/js/main.e8890aba.js.map"
+    "main.7aecb0af.css.map": "/week27_tarif/static/css/main.7aecb0af.css.map",
+    "main.c3c512f7.js.map": "/week27_tarif/static/js/main.c3c512f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ed00e62.css",
-    "static/js/main.e8890aba.js"
+    "static/css/main.7aecb0af.css",
+    "static/js/main.c3c512f7.js"
   ]
 }
