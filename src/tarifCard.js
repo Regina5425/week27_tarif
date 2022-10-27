@@ -2,6 +2,19 @@ import { Component } from "react";
 import "./tarifCard.css";
 
 class TarifCard extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      pressed: false,
+    };
+  }
+
+  handleChange = () => {
+    this.setState({
+      pressed: !this.state.pressed,
+    });
+  };
+
   render() {
     const { price, traffic } = this.props;
     let classTarif = "tarif";
@@ -37,6 +50,9 @@ class TarifCard extends Component {
         <div className='tarif__descr'>
           Объем включенного трафика не ограничен
         </div>
+        <button className='tarif__btn' onClick={this.handleChange}>
+          {this.state.pressed ? "Выбрано" : "Выбрать"}
+        </button>
       </div>
     );
   }

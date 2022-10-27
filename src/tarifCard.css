@@ -44,6 +44,23 @@
 	background-color: #9da0a0;
 }
 
+.tarif__btn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px 15px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: transparent;
+	color: #000;
+	cursor: pointer;
+	transition: all 0.3s ease-in-out;
+}
+
+.tarif__btn:hover {
+	border: 1px solid #fff;
+	color: #fff;
+}
+
 .color-1 {
 	background-color: #07a3a3;
 }
